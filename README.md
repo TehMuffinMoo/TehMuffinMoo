@@ -7,7 +7,7 @@
 - ⚙️ I frequent: `.ps1`,`.ps1m`,`.yaml`,`.tf`,`.php`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Organizr Community**
 - 🌱 Learning all about **Open Source Development**
-- 💅 Designed Several Organizr Plugins: [PlexLibraries](https://github.com/Organizr/Organizr-Plugins/tree/main/plexLibraries), [SonarrThrottling](https://github.com/TehMuffinMoo/Organizr-Plugins), [IP-Registration](https://github.com/TehMuffinMoo/Organizr-Plugins), etc…
+- 💅 Designed a [Powershell Module for BloxOneDDI](https://github.com/TehMuffinMoo/ibPS) & Several Organizr Plugins: [PlexLibraries](https://github.com/Organizr/Organizr-Plugins/tree/main/plexLibraries), [SonarrThrottling](https://github.com/TehMuffinMoo/Organizr-Plugins), [IP-Registration](https://github.com/TehMuffinMoo/Organizr-Plugins), etc…
 - 📫 Reach me: [Discord](https://discordapp.com/users/293873371379400705)
 
 ### Stats
