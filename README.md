@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Senior Projects Engineer working on all things on-prem and Cloud with a focus on automation.
+#### I'm a Solutions Architect working on all things On-Prem and Cloud with a focus on security and automation.
 
 ##### BIO
 
